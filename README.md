@@ -1,13 +1,13 @@
-# I've joined the #301DaysOfCode challenge.
+# #301DaysOfCode challenge.
 
-![#301DaysOfCode logo](https://github.com/akshay1337/301-Days-Of-Code/blob/master/301DaysOfCode-Badges/301days%20logo-08.jpg)
+![#301DaysOfCode logo](./301DaysOfCode-Badges/301days%20logo-08.jpg)
 
 Forked from Benjamin Spark's [repo](https://github.com/benjaminspak/301-Days-Of-Code).
 More info at [301daysofcode.com](https://301daysofcode.com/).
 ## Contents
 * [Rules](rules.md)
 * [Log](log.md)
-* [FAQ](https://github.com/akshay1337/301-Days-Of-Code#faq)
+* [FAQ](https://github.com/AdrianSkar/301_days_of_code#faq)
 
 ## What is #301DaysOfCode?
 Want to go from code noob to employed developer in less than a year?
