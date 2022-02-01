@@ -2,8 +2,8 @@
 
 ![#301DaysOfCode logo](./301DaysOfCode-Badges/301days%20logo-08.jpg)
 
-Forked from Benjamin Spark's [repo](https://github.com/benjaminspak/301-Days-Of-Code).
-More info at [301daysofcode.com](https://301daysofcode.com/).
+I've joined the [#301DaysOfCode](https://301daysofcode.com/) challenge! and this repo is a hybrid fork from Benjamin Spark's [repo](https://github.com/benja[minspak/301-Days-Of-Code) and content for other challenges as I've also joined [CodeNewbie's](https://community.codenewbie.org/cnc2022).
+
 ## Contents
 * [Rules](rules.md)
 * [Log](log.md)
