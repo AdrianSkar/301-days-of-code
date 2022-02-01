@@ -13,16 +13,15 @@ _I want to code more mainly because_ I enjoy creating things and solving problem
 	
 _I know I'll have reached my "code more" goal_ when I finally land that job.
 	
-
-_My top three assumptions for reaching my goal are_ that I'll have enough time, energy and motivation to do so
+_My top three assumptions for reaching my goal are_ that I'll have enough time, energy and motivation to do so.
 
 _Of these assumptions, my riskiest is_ time, I'm working part-time and also taking care of things at home so spare time is really scarce.
 	
 _When I think about my riskiest assumption, three possible root causes are_ work, chores and relatives. They really need their own chunk of time and neglecting any can result in pretty negative consequences. 
 
-_3 ways I might address these root causes are_ chunking small tasks together so they don't take attention and time later on, relying more on others to do common tasks and chores and managing work (as much as I can) in a manner that I can give more priority to coding, even if that means earning a little less.
+_3 ways I might address these root causes are_ chunking small tasks together so they don't take attention and time later on, relying more on others to do common tasks and chores, and managing work (as much as I can) in a manner that I can give more priority to coding, even if that means earning a little less.
 
-_Of these, the biggest cause that's worth tackling first is_ relying more on others. Financially I can't take much time from work and I think I have relatively strong time management skills but I don't usually ask for help when it comes to other tasks and chores.
+_Of these, the biggest cause that's worth tackling first is_ relying more on others. Financially, I can't take much time from work and I think I have relatively strong time management skills but I don't usually ask for help when it comes to other tasks and chores.
 
 ---
 
