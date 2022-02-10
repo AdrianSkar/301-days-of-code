@@ -34,6 +34,3 @@ ________________________________________ status: ____
 ___
 
 
-testing-dashes-vs-underscores.jpg
-testing_dashes_vs_underscores.jpg
-

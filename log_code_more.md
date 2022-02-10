@@ -1,11 +1,18 @@
 # #CodeMore challenge notes
 - [#CodeMore challenge notes](#codemore-challenge-notes)
+	- [Mission 2 (2206 + permanent)](#mission-2-2206--permanent)
 	- [Mission 1 (2205)](#mission-1-2205)
 	- [Pre-mission (30th Jan)](#pre-mission-30th-jan)
 		- [Determine what has worked](#determine-what-has-worked)
 		- [Determine what has NOT worked](#determine-what-has-not-worked)
 		- [Long-term goals](#long-term-goals)
 		- [Short-term goals](#short-term-goals)
+
+## [Mission 2](./CNC2022/2.mission-two.md) (2206 + permanent)
+
+[Sessions logged](./CNC2022/2.1.2206-sessions.md)
+
+
 ___
 ## [Mission 1](./CNC2022/1.mission-one.md) (2205)
 
