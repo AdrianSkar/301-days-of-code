@@ -1,5 +1,6 @@
 # #CodeMore challenge notes
 - [#CodeMore challenge notes](#codemore-challenge-notes)
+	- [Mission 4 (2207)](#mission-4-2207)
 	- [Mission 3 (2207)](#mission-3-2207)
 	- [Mission 2 (2206 + permanent)](#mission-2-2206--permanent)
 	- [Mission 1 (2205)](#mission-1-2205)
@@ -9,16 +10,25 @@
 		- [Long-term goals](#long-term-goals)
 		- [Short-term goals](#short-term-goals)
 
-## [Mission 3](./CNC2022/3.mission-three.md) (2207)
+
+## [Mission 4](./CNC2022/4.0.mission-four.md) (2207)
 
 - [Sessions logged](./CNC2022/3.1.2207-sessions.md)
 
-## [Mission 2](./CNC2022/2.mission-two.md) (2206 + permanent)
+--- 
+  
+## [Mission 3](./CNC2022/3.0.mission-three.md.mission-three.md) (2207)
+
+<!-- - [Sessions logged]() -->
+
+---
+
+## [Mission 2](./CNC2022/2.0.mission-two.md) (2206 + permanent)
 
 - [Sessions logged](./CNC2022/2.1.2206-sessions.md)
 
 ___
-## [Mission 1](./CNC2022/1.mission-one.md) (2205)
+## [Mission 1](./CNC2022/1.0.mission-one.md) (2205)
 
 _I want to code more mainly because_ I enjoy creating things and solving problems but my main goal is to get a job in the field.
 	
