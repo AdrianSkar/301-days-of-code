@@ -1,6 +1,7 @@
 # #CodeMore challenge notes
 - [#CodeMore challenge notes](#codemore-challenge-notes)
-	- [Mission 4 (2207)](#mission-4-2207)
+	- [Mission 5 (2209)](#mission-5-2209)
+	- [Mission 4 (2208)](#mission-4-2208)
 	- [Mission 3 (2207)](#mission-3-2207)
 	- [Mission 2 (2206 + permanent)](#mission-2-2206--permanent)
 	- [Mission 1 (2205)](#mission-1-2205)
@@ -11,7 +12,15 @@
 		- [Short-term goals](#short-term-goals)
 
 
-## [Mission 4](./CNC2022/4.0.mission-four.md) (2207)
+
+
+## [Mission 5](./CNC2022/5.0.mission-five.md) (2209)
+
+- [Reflection](./CNC2022/5.1.mission-five-reflection.md)
+
+--- 
+
+## [Mission 4](./CNC2022/4.0.mission-four.md) (2208)
 
 - [Sessions logged](./CNC2022/3.1.2207-sessions.md)
 
